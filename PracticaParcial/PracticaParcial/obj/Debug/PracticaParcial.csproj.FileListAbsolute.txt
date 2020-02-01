@@ -1,0 +1,13 @@
+c:\users\sebastian\documents\visual studio 2015\Projects\PracticaParcial\PracticaParcial\bin\Debug\PracticaParcial.exe.config
+c:\users\sebastian\documents\visual studio 2015\Projects\PracticaParcial\PracticaParcial\bin\Debug\PracticaParcial.exe
+c:\users\sebastian\documents\visual studio 2015\Projects\PracticaParcial\PracticaParcial\bin\Debug\PracticaParcial.pdb
+c:\users\sebastian\documents\visual studio 2015\Projects\PracticaParcial\PracticaParcial\obj\Debug\PracticaParcial.csprojResolveAssemblyReference.cache
+c:\users\sebastian\documents\visual studio 2015\Projects\PracticaParcial\PracticaParcial\obj\Debug\PracticaParcial.exe
+c:\users\sebastian\documents\visual studio 2015\Projects\PracticaParcial\PracticaParcial\obj\Debug\PracticaParcial.pdb
+C:\Users\Angela\Desktop\PracticaParcial\PracticaParcial\bin\Debug\PracticaParcial.exe.config
+C:\Users\Angela\Desktop\PracticaParcial\PracticaParcial\bin\Debug\PracticaParcial.exe
+C:\Users\Angela\Desktop\PracticaParcial\PracticaParcial\bin\Debug\PracticaParcial.pdb
+C:\Users\Angela\Desktop\PracticaParcial\PracticaParcial\obj\Debug\PracticaParcial.csprojAssemblyReference.cache
+C:\Users\Angela\Desktop\PracticaParcial\PracticaParcial\obj\Debug\PracticaParcial.csproj.CoreCompileInputs.cache
+C:\Users\Angela\Desktop\PracticaParcial\PracticaParcial\obj\Debug\PracticaParcial.exe
+C:\Users\Angela\Desktop\PracticaParcial\PracticaParcial\obj\Debug\PracticaParcial.pdb
